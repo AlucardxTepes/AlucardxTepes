@@ -13,10 +13,10 @@
 ![LibGDX](https://img.shields.io/badge/LibGDX-DD1100?style=for-the-badge&logo=fire&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Alucard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlucardxTepes&layout=compact&theme=dracula&hide=html,css&exclude_repo=temp)](https://github.com/anuraghazra/github-readme-stats)
+[![Alucard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlucardxTepes&layout=compact&theme=dracula&custom_title=My%20Code%20Languages&langs_count=6&exclude_repo=temp&hide=html,css,shaderlab,mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlucardxTepes&theme=blood&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌙 Currently Biting Into
-- 🧛‍♂️ LibGDX's framework
-- 🏰 Unity C# game dev
+- 🧛‍♂️ Unity C# game dev
+- 🏰 LibGDX's framework
